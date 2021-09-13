@@ -14,6 +14,11 @@ class SIMPLESHOOTER_API AShooterCharacter : public ACharacter
 private:
 	void MoveForwardBackward(float AxisValue);
 	void MoveRightLeft(float AxisValue);
+	void LookUpDownRate(float AxisValue);
+	void LookRightLeftRate(float AxisValue);
+
+	UPROPERTY(EditAnywhere)
+	float RotationRate = 10.0f;
 
 public:
 	// Sets default values for this character's properties
