@@ -18,6 +18,7 @@ private:
 	void MoveRightLeft(float AxisValue);
 	void LookUpDownRate(float AxisValue);
 	void LookRightLeftRate(float AxisValue);
+	void Shoot();
 
 	UPROPERTY(EditAnywhere)
 	float RotationRate = 10.0f;
