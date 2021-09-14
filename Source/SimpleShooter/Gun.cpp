@@ -45,7 +45,6 @@ void AGun::PullTrigger()
 	OwnerController->GetPlayerViewPoint(Location, Rotation);
 
 	FVector End = Location + Rotation.Vector() * MaxRange;
-	DrawDebugPoint(GetWorld(), Location, 20.0f, FColor::Red, true);
 	// DrawDebugCamera(GetWorld(), Location, Rotation, 90, 2.0f, FColor::Red, true);
 
 	// Debug LineTrace
