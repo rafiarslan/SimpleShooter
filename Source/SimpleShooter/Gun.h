@@ -18,6 +18,8 @@ private:
 	USkeletalMeshComponent *Mesh;
 	UPROPERTY(EditAnywhere)
 	UParticleSystem *MuzzleFlash;
+	UPROPERTY(EditAnywhere)
+	float MaxRange = 1000.0f;
 
 public:
 	// Sets default values for this actor's properties
