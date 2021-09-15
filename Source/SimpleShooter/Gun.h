@@ -22,6 +22,8 @@ private:
 	UParticleSystem *ImpactEffect;
 	UPROPERTY(EditAnywhere)
 	float MaxRange = 1000.0f;
+	UPROPERTY(EditAnywhere)
+	float Damage = 10.0f;
 
 public:
 	// Sets default values for this actor's properties
