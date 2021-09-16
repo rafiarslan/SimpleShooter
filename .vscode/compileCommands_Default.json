@@ -1,5 +1,15 @@
 [
 	{
+		"file": "D:\\\\UE4Projects\\\\SimpleShooter\\\\Source\\\\SimpleShooter\\\\BTTask_ClearBlackboardValue.cpp",
+		"command": "cl.exe @\"D:\\UE4Projects\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.182.rsp\"",
+		"directory": "C:\\Program Files\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\UE4Projects\\\\SimpleShooter\\\\Source\\\\SimpleShooter\\\\BTTask_ClearBlackboardValue.h",
+		"command": "cl.exe @\"D:\\UE4Projects\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.182.rsp\"",
+		"directory": "C:\\Program Files\\UE_4.26\\Engine\\Source"
+	},
+	{
 		"file": "D:\\\\UE4Projects\\\\SimpleShooter\\\\Source\\\\SimpleShooter\\\\Gun.cpp",
 		"command": "cl.exe @\"D:\\UE4Projects\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.182.rsp\"",
 		"directory": "C:\\Program Files\\UE_4.26\\Engine\\Source"
