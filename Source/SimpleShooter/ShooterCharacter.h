@@ -18,7 +18,6 @@ private:
 	void MoveRightLeft(float AxisValue);
 	void LookUpDownRate(float AxisValue);
 	void LookRightLeftRate(float AxisValue);
-	void Shoot();
 
 	UPROPERTY(EditAnywhere)
 	float RotationRate = 10.0f;
@@ -40,7 +39,8 @@ public:
 	// Called to bind functionality to input
 	virtual void SetupPlayerInputComponent(class UInputComponent *PlayerInputComponent) override;
 	virtual float TakeDamage(float DamageAmount, struct FDamageEvent const& DamageEvent, class AController* EventInstigator, AActor* DamageCauser) override;
-	
+	void Shoot();
+
 	UFUNCTION(BlueprintPure)
 	bool IsDead() const;
 
