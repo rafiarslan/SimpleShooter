@@ -20,6 +20,16 @@
 		"directory": "C:\\Program Files\\UE_4.26\\Engine\\Source"
 	},
 	{
+		"file": "D:\\\\UE4Projects\\\\SimpleShooter\\\\Source\\\\SimpleShooter\\\\ShooterAIController.cpp",
+		"command": "cl.exe @\"D:\\UE4Projects\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.182.rsp\"",
+		"directory": "C:\\Program Files\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\UE4Projects\\\\SimpleShooter\\\\Source\\\\SimpleShooter\\\\ShooterAIController.h",
+		"command": "cl.exe @\"D:\\UE4Projects\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.182.rsp\"",
+		"directory": "C:\\Program Files\\UE_4.26\\Engine\\Source"
+	},
+	{
 		"file": "D:\\\\UE4Projects\\\\SimpleShooter\\\\Source\\\\SimpleShooter\\\\ShooterCharacter.cpp",
 		"command": "cl.exe @\"D:\\UE4Projects\\SimpleShooter\\.vscode\\compileCommands_Default\\SimpleShooter.182.rsp\"",
 		"directory": "C:\\Program Files\\UE_4.26\\Engine\\Source"
