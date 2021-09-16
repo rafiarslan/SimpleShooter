@@ -11,6 +11,10 @@ class SIMPLESHOOTER_API AShooterAIController : public AAIController
 {
 	GENERATED_BODY()
 
+private:
+	UPROPERTY(EditAnywhere)
+	float AcceptanceRadius = 200.0f;
+
 public:
 	virtual void Tick(float DeltaSeconds) override;
 
