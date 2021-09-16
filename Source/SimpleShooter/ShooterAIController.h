@@ -13,7 +13,9 @@ class SIMPLESHOOTER_API AShooterAIController : public AAIController
 
 private:
 	UPROPERTY(EditAnywhere)
-	float AcceptanceRadius = 200.0f;
+	// float AcceptanceRadius = 200.0f;
+
+	class UBehaviorTree *AIBehavior;
 
 public:
 	virtual void Tick(float DeltaSeconds) override;
