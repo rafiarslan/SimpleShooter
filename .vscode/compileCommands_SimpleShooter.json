@@ -50,6 +50,16 @@
 		"directory": "C:\\Program Files\\UE_4.26\\Engine\\Source"
 	},
 	{
+		"file": "D:\\\\UE4Projects\\\\SimpleShooter\\\\Source\\\\SimpleShooter\\\\KillThemAllGameMode.cpp",
+		"command": "cl.exe @\"D:\\UE4Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.182.rsp\"",
+		"directory": "C:\\Program Files\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\UE4Projects\\\\SimpleShooter\\\\Source\\\\SimpleShooter\\\\KillThemAllGameMode.h",
+		"command": "cl.exe @\"D:\\UE4Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.182.rsp\"",
+		"directory": "C:\\Program Files\\UE_4.26\\Engine\\Source"
+	},
+	{
 		"file": "D:\\\\UE4Projects\\\\SimpleShooter\\\\Source\\\\SimpleShooter\\\\MyPawn.cpp",
 		"command": "cl.exe @\"D:\\UE4Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.182.rsp\"",
 		"directory": "C:\\Program Files\\UE_4.26\\Engine\\Source"
@@ -76,6 +86,16 @@
 	},
 	{
 		"file": "D:\\\\UE4Projects\\\\SimpleShooter\\\\Source\\\\SimpleShooter\\\\ShooterCharacter.h",
+		"command": "cl.exe @\"D:\\UE4Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.182.rsp\"",
+		"directory": "C:\\Program Files\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\UE4Projects\\\\SimpleShooter\\\\Source\\\\SimpleShooter\\\\ShooterPlayerController.cpp",
+		"command": "cl.exe @\"D:\\UE4Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.182.rsp\"",
+		"directory": "C:\\Program Files\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\UE4Projects\\\\SimpleShooter\\\\Source\\\\SimpleShooter\\\\ShooterPlayerController.h",
 		"command": "cl.exe @\"D:\\UE4Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.182.rsp\"",
 		"directory": "C:\\Program Files\\UE_4.26\\Engine\\Source"
 	},
