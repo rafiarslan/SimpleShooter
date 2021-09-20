@@ -1,5 +1,25 @@
 [
 	{
+		"file": "D:\\\\UE4Projects\\\\SimpleShooter\\\\Source\\\\SimpleShooter\\\\BTService_PlayerLocation.cpp",
+		"command": "cl.exe @\"D:\\UE4Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.182.rsp\"",
+		"directory": "C:\\Program Files\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\UE4Projects\\\\SimpleShooter\\\\Source\\\\SimpleShooter\\\\BTService_PlayerLocation.h",
+		"command": "cl.exe @\"D:\\UE4Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.182.rsp\"",
+		"directory": "C:\\Program Files\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\UE4Projects\\\\SimpleShooter\\\\Source\\\\SimpleShooter\\\\BTService_PlayerLocationIfSeen.cpp",
+		"command": "cl.exe @\"D:\\UE4Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.182.rsp\"",
+		"directory": "C:\\Program Files\\UE_4.26\\Engine\\Source"
+	},
+	{
+		"file": "D:\\\\UE4Projects\\\\SimpleShooter\\\\Source\\\\SimpleShooter\\\\BTService_PlayerLocationIfSeen.h",
+		"command": "cl.exe @\"D:\\UE4Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.182.rsp\"",
+		"directory": "C:\\Program Files\\UE_4.26\\Engine\\Source"
+	},
+	{
 		"file": "D:\\\\UE4Projects\\\\SimpleShooter\\\\Source\\\\SimpleShooter\\\\BTTask_ClearBlackboardValue.cpp",
 		"command": "cl.exe @\"D:\\UE4Projects\\SimpleShooter\\.vscode\\compileCommands_SimpleShooter\\SimpleShooter.182.rsp\"",
 		"directory": "C:\\Program Files\\UE_4.26\\Engine\\Source"
