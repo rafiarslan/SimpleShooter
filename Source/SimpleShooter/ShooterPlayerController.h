@@ -14,6 +14,8 @@ class SIMPLESHOOTER_API AShooterPlayerController : public APlayerController
 private:
 	UPROPERTY(EditAnywhere)
 	float RestartDelay = 5.0f;
+	UPROPERTY(EditAnywhere)
+	TSubclassOf<class UUserWidget> LoseScreenClass;
 
 	FTimerHandle RestartTimer;
 
