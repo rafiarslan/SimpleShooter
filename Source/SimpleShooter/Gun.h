@@ -17,9 +17,13 @@ private:
 	UPROPERTY(VisibleAnywhere)
 	USkeletalMeshComponent *Mesh;
 	UPROPERTY(EditAnywhere)
+	UParticleSystem *ImpactEffect;
+	UPROPERTY(EditAnywhere)
 	UParticleSystem *MuzzleFlash;
 	UPROPERTY(EditAnywhere)
-	UParticleSystem *ImpactEffect;
+	USoundBase *MuzzleSound;
+	UPROPERTY(EditAnywhere)
+	USoundBase *ImpactSound;
 	UPROPERTY(EditAnywhere)
 	float MaxRange = 1000.0f;
 	UPROPERTY(EditAnywhere)
