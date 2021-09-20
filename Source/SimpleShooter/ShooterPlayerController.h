@@ -16,9 +16,12 @@ private:
 	float RestartDelay = 5.0f;
 	UPROPERTY(EditAnywhere)
 	TSubclassOf<class UUserWidget> LoseScreenClass;
+	UPROPERTY(EditAnywhere)
+	TSubclassOf<class UUserWidget> WinScreenClass;
 
 	FTimerHandle RestartTimer;
 
 public:
+	
 	virtual void GameHasEnded(class AActor* EndGameFocus = nullptr, bool bIsWinner = false) override;
 };
