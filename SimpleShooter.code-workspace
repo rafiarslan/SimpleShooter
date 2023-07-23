@@ -10,7 +10,12 @@
 		}
 	],
 	"settings": {
-		"typescript.tsc.autoDetect": "off"
+		"typescript.tsc.autoDetect": "off",
+		"C_Cpp.default.forcedInclude": [
+			"${default}",
+			"D:\\UE4Projects\\SimpleShooter\\Intermediate\\Build\\Win64\\UE4Editor\\Development\\SimpleShooter\\Definitions.SimpleShooter.h",
+			"D:\\UE4Projects\\SimpleShooter\\Intermediate\\Build\\Win64\\SimpleShooterEditor\\Development\\Engine\\SharedPCH.Engine.ShadowErrors.h"
+		]
 	},
 	"extensions": {
 		"recommendations": [
