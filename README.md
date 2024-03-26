@@ -1,4 +1,6 @@
 # SimpleShooter
 
-A small, third-person shooter game in which player tries to shoot every enemy in the map without dying. <br/>
-Game is made using Unreal Engine.
+A small, third-person shooter game in which the player tries to shoot 
+every enemy on the map without dying. 
+
+Made with Unreal Engine.
