@@ -10,6 +10,8 @@ Made with Unreal Engine 4.26.
 
 -W, A, S, D keys to move around.
 
+-Spacebar to jump.
+
 -Left Mouse Button to shoot.
 
 # Screenshots
