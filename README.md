@@ -8,7 +8,7 @@ Made with Unreal Engine 4.26.
 
 # Controls
 
--W, A, S, D to move around.
+-W, A, S, D keys to move around.
 
 -Left Mouse Button to shoot.
 
